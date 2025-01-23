@@ -1,9 +1,9 @@
 .App {
-  text-align: center;
+  text-align: start;
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 10vmin;
   pointer-events: none;
 }
 
@@ -11,6 +11,13 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+
+.counter{
+  margin: 1rem;
+}
+.counter-btn{
+  margin: 1rem;
 }
 
 .App-header {
